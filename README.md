@@ -1,2 +1,2 @@
 # PrivateDNSDocs
-Private DNS Mac App Store Documentation
+Private DNS Mac App Store App Support Repository.
